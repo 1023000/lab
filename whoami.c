@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
 	printf("1023016\n");
 	printf("1022997\n");
@@ -35,6 +34,7 @@ int main() {
 	printf("1022985\n");
 	printf("1023034\n");
 	printf("1023015\n");
-	
+	printf("1023000\n");
+
 	return 0;
 }
